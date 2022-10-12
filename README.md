@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+{This is a web recipe app that I built to work with APIs and visualize the several recipes in th API}
+
+{This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -37,34 +39,34 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.}
 
-## Learn More
+{I wrote this software to practice using APIs.}
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+{Link to Youtube demonstration}
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[Software Demo Video](https://www.youtube.com/watch?v=K3dg_U7VDVM)
 
-### Code Splitting
+# Web Pages
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+{There is only one React webpage. It has a search button were any recipe keyword can be typed into and recipe contents containing that key word will load on the page}
 
-### Analyzing the Bundle Size
+# Development Environment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+{I used visual studio code as a text editor
+I also used React and Node JS for the app}
 
-### Making a Progressive Web App
+{I used React to build this app}
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# Useful Websites
 
-### Advanced Configuration
+{Make a list of websites that you found helpful in this project}
+* [Edamam](https://developer.edamam.com/edamam-docs-recipe-api-v1)
+* [Web gradients](https://webgradients.com/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# Future Work
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+{list of things that you need to fix, improve, and add in the future.}
+* More CSS
+* More user interaction
+* More web pages
